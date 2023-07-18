@@ -1,0 +1,8 @@
+D:\assignemt exercise\assignment-09\ConsoleAppExercise09\ConsoleAppExercise09\bin\Debug\ConsoleAppExercise09.exe.config
+D:\assignemt exercise\assignment-09\ConsoleAppExercise09\ConsoleAppExercise09\bin\Debug\ConsoleAppExercise09.exe
+D:\assignemt exercise\assignment-09\ConsoleAppExercise09\ConsoleAppExercise09\bin\Debug\ConsoleAppExercise09.pdb
+D:\assignemt exercise\assignment-09\ConsoleAppExercise09\ConsoleAppExercise09\obj\Debug\ConsoleAppExercise09.csproj.AssemblyReference.cache
+D:\assignemt exercise\assignment-09\ConsoleAppExercise09\ConsoleAppExercise09\obj\Debug\ConsoleAppExercise09.csproj.SuggestedBindingRedirects.cache
+D:\assignemt exercise\assignment-09\ConsoleAppExercise09\ConsoleAppExercise09\obj\Debug\ConsoleAppExercise09.csproj.CoreCompileInputs.cache
+D:\assignemt exercise\assignment-09\ConsoleAppExercise09\ConsoleAppExercise09\obj\Debug\ConsoleAppExercise09.exe
+D:\assignemt exercise\assignment-09\ConsoleAppExercise09\ConsoleAppExercise09\obj\Debug\ConsoleAppExercise09.pdb
